@@ -1,4 +1,4 @@
-<h1 align="center">Hey folks, name name is Lennart</h1>
+<h1 align="center">Hey folks, my name is Lennart</h1>
 <h2 align="center">Hobbyist Software Developer & 2/3D Artist for UE5 leveldesign based in Germany</h2>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### About Me 👋
 I am participating in the Federal Volunteer Service (Bundesfreiwilligendeinst) and use my free time to work on a wide variety of projects.
-In the process, I was able to solve a problem for my company using **C# .NET 10** for a inventory management system that wasn't tailored to our needs.
+In the process, I was able to solve a problem for my company using **C# .NET 10** for a [inventory management system](https://github.com/LennartMahling/InventoryManagement) that wasn't tailored to our needs.
 
 I am adding to my portfolio here so that in the future I can apply for a dual study program, preferably in fields that interest me, such as aerospace and automotive engineering.
 
@@ -27,8 +27,8 @@ I'm also in the process of starting a small business that sells custom software 
 ---
 
 ### Projects & Interests
-- 3D Modelling in Blender and contributing to the Bundeswehr Mod Squad
-- Person in Charge of Unreal Engine 5.0 leveldesign at Bundeswehr Mod Squad
+- [3D Modelling](https://www.linkedin.com/in/lennart-mahling-677100301/details/projects/) in Blender and contributing to the [Bundeswehr Mod Squad](https://bwmod.com)
+- Person in Charge of Unreal Engine 5.0 [leveldesign](https://bwmod.com/2024/08/19/progress-update-no-9/) at Bundeswehr Mod Squad
 - Modeling a fully 3D-printable UAV in Fusion 360, including its assembly and the development of the flight control system using Ardupilot
 - Web development using Astro
 - Backend with C# and .NET
