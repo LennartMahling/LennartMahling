@@ -15,7 +15,7 @@
 
 ### About Me 👋
 I am participating in the Federal Volunteer Service (Bundesfreiwilligendeinst) and use my free time to work on a wide variety of projects.
-In the process, I was able to solve a problem for my company using **C# .NET 10** for a [inventory management system](https://github.com/LennartMahling/InventoryManagement) that wasn't tailored to our needs.
+In the process, I was able to solve a problem for my company using **C# .NET 10** for a [inventory management system](https://github.com/LennartMahling/InventoryManagement) while existing products weren't tailored to our needs.
 
 I am adding to my portfolio here so that in the future I can apply for a dual study program, preferably in fields that interest me, such as aerospace and automotive engineering.
 
